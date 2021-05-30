@@ -1,0 +1,43 @@
+body{
+    background: rgb(247, 239, 130);
+}
+
+h1{
+    border-bottom: black 2px solid; 
+    width: 350px;
+    position: relative;
+    left: 30%;
+}
+h2{ color: rgb(22, 11, 11);
+    padding: 7px 5px;
+    width: 268px;
+    background: radial-gradient
+    (#eb68bd 10%, 
+    #50FE0A 30%, #4bee87 70%);
+    position: absolute;
+    left: 900px;
+    bottom: 520px;
+    border-radius: 10px 10px;
+    border: black 2px solid ;
+}
+#contpaquete{
+    position: absolute;
+    top: 150px;
+}
+#paquete li{
+    padding: 7px 5px;
+    font-size: 25px;
+}
+img{
+    border-radius: 10px 10px;
+    border-bottom: 4px black solid;
+    border-right: 4px black solid;
+    position: fixed;
+    width: 600px;
+    height: 300px;
+    top: 50%;
+    left: 75%;
+    transform: translateX(-50%) 
+    translateY(-50%);
+    z-index: -1;
+}

@@ -1,0 +1,251 @@
+*{
+    padding: 5px;   
+}
+
+#contenedor{   
+    width: 430px;
+    position: relative;
+    left: 36%;
+}
+
+#paquetes{
+    padding: 20px;
+    background: white;
+    color: rgb(122, 118, 118);
+    font-size: 20px;
+}
+table, tr, #paq{
+    text-decoration: none;
+    color: black;
+    padding: 0;
+}
+#paq:hover{
+    color: crimson;
+}
+#condemenu{
+    width: 70px;
+}
+#t1{
+    margin: 0px;
+    padding: 0px;
+    font-size: 20px;
+    position: relative;
+    bottom: 5px;
+    color: white;
+}
+#menu1{
+    padding: 0px 0px;
+    text-align: center;
+    background: rgb(1, 211, 200);
+    font-family: 'Zen Dots', cursive;
+    font-size: 18px;
+    border-radius: 10px 10px;
+    border: 2px black solid;
+}
+
+#p1{
+    position: relative;
+    bottom: 10px;
+    margin: 0px;
+    padding: 10px 20px;
+    z-index: 1;
+    color: white;
+    font-size: 18px;
+}
+#paqare a{
+    text-decoration: none;
+    border-radius: 5px 5px;
+    border: 2px solid black;
+    padding: 2px 5px;
+    font-size: 15px;
+    position: relative;
+    bottom: 4px;
+    color: black;
+}
+#paqare a:hover{
+    background: rgba(0, 0, 0, 0.4);
+    color: white;
+}
+#paqare{
+    margin: 0px;
+    padding: 0px;
+}
+#t2{
+    margin: 0px;
+    padding: 0px;
+    font-size: 20px;
+    position: relative;
+    bottom: 7px;
+    color: white;
+}
+#menu2{
+    padding: 0px 0px;
+    text-align: center;
+    background: rgb(1, 211, 200);
+    font-family: 'Zen Dots', cursive;
+    font-size: 18px;
+    border-radius: 10px 10px;
+    border: 2px black solid;
+}
+#p2{
+    position: relative;
+    bottom: 5px;
+    margin: 0px;
+    padding: 0px;
+    z-index: 1;
+    color: white;
+    font-size: 16px;
+}
+#paqcus a{
+    text-decoration: none;
+    border-radius: 5px 5px;
+    border: 2px solid black;
+    padding: 2px 5px;
+    font-size: 15px;
+    color: black;
+}
+#paqcus a:hover{
+    background: rgba(0, 0, 0, 0.4);
+    color: white;
+}
+#paqcus{
+    margin: 0px;
+    padding: 0px;
+}
+#postre1{
+    text-align: center;
+    padding: 20px 30px;
+    background: white;
+    font-family: 'Zen Dots', cursive;
+    border-radius: 10px 10px;
+    border: 2px black solid;
+}
+#postre1 a{
+    text-decoration: none;
+    color: rgb(87, 84, 84);
+}
+#postre1 a:hover{
+    background: #F7CA3E ;
+    color: white;
+}
+#postre1:hover{
+    background: #F7CA3E ;
+    color: white;
+}
+#postre2{
+    padding: 20px;
+    text-align: center;
+    background: white;
+    font-family: 'Zen Dots', cursive;
+    border-radius: 10px 10px;
+    border: 2px black solid;
+}
+#postre2 a{
+    text-decoration: none;
+    color: rgb(87, 84, 84);
+}
+#postre2 a:hover{
+    background: #F7CA3E ;
+    color: white;
+}
+#postre2:hover{
+    background: #F7CA3E ;
+    color: white;
+}
+#face{
+    height: 45px;
+    padding: 13px;
+    text-align: center;
+    background: white;
+    font-family: 'Zen Dots', cursive;
+    border-radius: 10px 10px;
+    border: 2px black solid;
+}
+#face a{
+    text-decoration: none;
+    color: rgb(87, 84, 84);
+}
+#face a:hover{
+    background: #F7CA3E ;
+    color: white;
+}
+#face:hover{
+    background: #F7CA3E;
+    color: white;
+}
+#wasa{
+    padding: 13px;
+    text-align: center;
+    background: white;
+    font-family: 'Zen Dots', cursive;
+    border-radius: 10px 10px;
+    border: 2px black solid;
+}
+#wasa a{
+    text-decoration: none;
+    color: rgb(87, 84, 84);
+}
+#wasa a:hover{
+    background: #F7CA3E ;
+    color: white;
+}
+#wasa:hover{
+    background: #F7CA3E ;
+    color: white;
+}
+#buz{
+    padding: 13px;
+    text-align: center;
+    background: white;
+    font-family: 'Zen Dots', cursive;
+    border-radius: 10px 10px;
+    border: 2px black solid;
+}
+#buz a{
+    text-decoration: none;
+    color: rgb(87, 84, 84);
+}
+#buz a:hover{
+    background: #F7CA3E ;
+    color: white;
+}
+#buz:hover{
+    background: #F7CA3E ;
+    color: white;
+}
+#empresa{
+    padding: 13px;
+    text-align: center;
+    background: white;
+    font-family: 'Zen Dots', cursive;
+    border-radius: 10px 10px;
+    border: 2px black solid;
+}
+#empresa a:hover{
+    background: #F7CA3E ;
+    color: white;
+}
+#empresa a{
+    text-decoration: none;
+    color: rgb(87, 84, 84);
+}
+#empresa:hover{
+    background: #F7CA3E ;
+    color: white;
+}
+img{
+    position: fixed;
+
+    min-width: 100%;
+    min-height: 100%;
+
+    top: 50%;
+    left: 50%;
+
+    transform: translateX(-50%) 
+    translateY(-50%);
+
+    z-index: -1;
+}
+
+

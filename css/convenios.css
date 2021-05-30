@@ -1,0 +1,53 @@
+body{
+    background: rgb(247, 239, 130);
+}
+h1{
+    border-bottom: black 2px solid; 
+    width: 423px;
+    position: relative;
+    left: 35%;
+}
+#tabla{
+    margin: auto;
+
+}
+#tabla tr td{
+    width: 420px;
+}
+#tabla tr td ul li{
+    font-size: 20px;
+}
+#hotel1{
+    width: 400px;
+    padding: 0px 70px;
+}
+#hotel2{
+    width: 400px;
+    height: 225px;
+    padding: 0px 40px;
+}
+
+#titulo2{
+    border-bottom: black 2px solid; 
+    width: 510px;
+    position: relative;
+    left: 35%;
+}
+
+#tabla2{
+    margin: auto;
+}
+#tabla2 tr td{
+    width: 420px;
+}
+#tabla2 tr td ul li{
+    font-size: 20px;
+}
+#rest1{
+    width: 400px;
+    padding: 0px 50px;
+}
+#rest2{
+    width: 400px;
+    padding: 0px 20px;
+}
